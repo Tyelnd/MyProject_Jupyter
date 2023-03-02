@@ -1,2 +1,2 @@
-# MyProject_Jupyter
-Final assignment for Coursera
+# IBM Courses
+Assignments for Coursera
